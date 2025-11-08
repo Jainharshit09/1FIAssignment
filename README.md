@@ -456,17 +456,3 @@ EMI (Equated Monthly Installment) plans are embedded within the Product document
 - All API responses exclude the `__v` (version key) field for cleaner JSON output
 
 ---
-
-## 🤝 Contributing
-
-Feel free to submit issues and enhancement requests!
-
----
-
-## 📄 License
-
-This project is licensed under the ISC License.
-
----
-
-**Happy Coding! 🚀**
