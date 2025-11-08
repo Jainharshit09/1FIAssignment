@@ -181,7 +181,7 @@ export default function ProductPage() {
               {/* EMI Plans */}
               <div className="space-y-3 sm:space-y-4 md:space-y-5 lg:space-y-6">
                 <h3 className="text-xs sm:text-sm md:text-base font-extrabold text-neutral-900 uppercase tracking-wider sm:tracking-widest">
-                  EMI Options
+                  EMI Options Backed by Mutual Funds
                 </h3>
                 <div className="space-y-3 sm:space-y-4 md:space-y-5 max-h-[300px] sm:max-h-[350px] md:max-h-[400px] overflow-y-auto pr-2 sm:pr-3 md:pr-4 custom-scrollbar">
                   {product.emiPlans.map((plan) => {

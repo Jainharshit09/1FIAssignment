@@ -55,7 +55,7 @@ export default function ProductList() {
             Discover Our Products
           </h1>
           <p className="text-lg sm:text-xl text-neutral-500 max-w-2xl mx-auto leading-relaxed">
-            Explore our curated selection of premium tech with flexible EMI options.
+            Explore our curated selection of premium tech with flexible EMI options Backed by Mutual funds.
           </p>
           <div className="pt-4">
             <a
